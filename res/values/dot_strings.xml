@@ -34,4 +34,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <!-- Gestures -->
     <string name="pref_dt_gesture_title">Double tap gesture</string>
     <string name="pref_dt_gesture_summary">Double tap on empty space for screen-off</string>
+
+    <!-- Icon pack -->
+    <string name="icon_pack_title">Icon pack</string>
+    <string name="icon_pack_default_label">Default</string>
+    <string name="icon_pack_add">Install more</string>
+    <string name="icon_pack_no_market">There\'s no available app store</string>
 </resources>
